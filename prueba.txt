@@ -1,0 +1,2 @@
+do{}mientras(ejecutando==false)
+do{}mientras(error!=true)
